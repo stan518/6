@@ -24,15 +24,15 @@ def fuzzy_comparison(str_1, str_2):
 
 
 
-str_1_good = "Apple Inc."
+str_1_good = "ALan"
 
-str_2_good = "Apple Inc."
+str_2_good = "ALan"
 
 
 
-str_1_bad = "Apple Inc."
+str_1_bad = "Alan"
 
-str_2_bad = "apple Inc"
+str_2_bad = "Plan"
 
 
 
